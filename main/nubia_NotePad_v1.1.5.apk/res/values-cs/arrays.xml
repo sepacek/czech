@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saterday</item>
+    </string-array>
+    <string-array name="dail">
+        <item>Call</item>
+        <item>Add to contacts</item>
+        <item>Send SMS</item>
+        <item>Copy message text</item>
+    </string-array>
+    <string-array name="mail">
+        <item>Write email</item>
+        <item>Add to contacts</item>
+        <item>Copy message text</item>
+    </string-array>
+    <string-array name="website">
+        <item>Open URL</item>
+        <item>Add to contacts</item>
+        <item>Copy message text</item>
+    </string-array>
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>

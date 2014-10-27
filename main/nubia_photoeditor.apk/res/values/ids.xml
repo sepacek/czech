@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tinyplanetButton" />
+    <item type="id" name="vignetteButton" />
+    <item type="id" name="vibranceButton" />
+    <item type="id" name="contrastButton" />
+    <item type="id" name="saturationButton" />
+    <item type="id" name="bwfilterButton" />
+    <item type="id" name="wbalanceButton" />
+    <item type="id" name="hueButton" />
+    <item type="id" name="exposureButton" />
+    <item type="id" name="shadowRecoveryButton" />
+    <item type="id" name="highlightRecoveryButton" />
+    <item type="id" name="sharpenButton" />
+    <item type="id" name="curvesButtonRGB" />
+    <item type="id" name="negativeButton" />
+    <item type="id" name="edgeButton" />
+    <item type="id" name="kmeansButton" />
+    <item type="id" name="downsampleButton" />
+    <item type="id" name="drawOnImageButton" />
+    <item type="id" name="imageCurves" />
+    <item type="id" name="imageZoom" />
+    <item type="id" name="editorDraw" />
+    <item type="id" name="editorRedEye" />
+    <item type="id" name="imageOnlyEditor" />
+    <item type="id" name="vignetteEditor" />
+    <item type="id" name="editorCrop" />
+    <item type="id" name="editorFlip" />
+    <item type="id" name="editorRotate" />
+    <item type="id" name="editorRotateFlip" />
+    <item type="id" name="editorStraighten" />
+    <item type="id" name="editorStraightenCrop" />
+    <item type="id" name="editorParametric" />
+    <item type="id" name="editorWord" />
+    <item type="id" name="nubiasharpenButton" />
+    <item type="id" name="emptinessEditor" />
+    <item type="id" name="emptinessButton" />
+    <item type="id" name="docButton" />
+    <item type="id" name="docSkinSmooth" />
+    <item type="id" name="docSkinTone" />
+    <item type="id" name="docTeethWhite" />
+    <item type="id" name="docEyesEnhance" />
+    <item type="id" name="docEyesEnlarge" />
+    <item type="id" name="docFaceSlime" />
+    <item type="id" name="docDeflash" />
+    <item type="id" name="action_toggle_full_caching" />
+    <item type="id" name="action_select_all" />
+    <item type="id" name="viewpager" />
+    <item type="id" name="mainView">false</item>
+    <item type="id" name="mainPanel">false</item>
+    <item type="id" name="cropView">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="filtershow_done">false</item>
+    <item type="id" name="main_panel_container">false</item>
+    <item type="id" name="edit_panel_container">false</item>
+    <item type="id" name="editorContainer">false</item>
+    <item type="id" name="imageShow">false</item>
+    <item type="id" name="edit_panel_container_ex">false</item>
+    <item type="id" name="listItems">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="tableRow1">false</item>
+    <item type="id" name="cp_grid_button01">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button03">false</item>
+    <item type="id" name="button04">false</item>
+    <item type="id" name="button05">false</item>
+    <item type="id" name="tableRow2">false</item>
+    <item type="id" name="Button06">false</item>
+    <item type="id" name="button07">false</item>
+    <item type="id" name="button08">false</item>
+    <item type="id" name="button09">false</item>
+    <item type="id" name="button10">false</item>
+    <item type="id" name="tableRow3">false</item>
+    <item type="id" name="Button11">false</item>
+    <item type="id" name="button12">false</item>
+    <item type="id" name="button13">false</item>
+    <item type="id" name="button14">false</item>
+    <item type="id" name="button15">false</item>
+    <item type="id" name="tableRow4">false</item>
+    <item type="id" name="Button16">false</item>
+    <item type="id" name="button17">false</item>
+    <item type="id" name="button18">false</item>
+    <item type="id" name="button19">false</item>
+    <item type="id" name="button20">false</item>
+    <item type="id" name="filtershow_cp_custom">false</item>
+    <item type="id" name="RelativeLayout1">false</item>
+    <item type="id" name="colorRectView">false</item>
+    <item type="id" name="colorOpacityView">false</item>
+    <item type="id" name="colorValueView">false</item>
+    <item type="id" name="btnSelect">false</item>
+    <item type="id" name="leftActionButton">false</item>
+    <item type="id" name="controlValueSeekBar">false</item>
+    <item type="id" name="rightActionButton">false</item>
+    <item type="id" name="scrollList">false</item>
+    <item type="id" name="listStyles">false</item>
+    <item type="id" name="controlName">false</item>
+    <item type="id" name="controlValue">false</item>
+    <item type="id" name="basicEditor">false</item>
+    <item type="id" name="sizeSeekBar">false</item>
+    <item type="id" name="sizeAcceptButton">false</item>
+    <item type="id" name="top">false</item>
+    <item type="id" name="controlArea">false</item>
+    <item type="id" name="primarySeekBar">false</item>
+    <item type="id" name="panelAccessoryViewList">false</item>
+    <item type="id" name="applyEffect">false</item>
+    <item type="id" name="null_layout">false</item>
+    <item type="id" name="text_view_min">false</item>
+    <item type="id" name="text_view_max">false</item>
+    <item type="id" name="imageEmptiness">false</item>
+    <item type="id" name="preview">false</item>
+    <item type="id" name="rowTextView">false</item>
+    <item type="id" name="state_panel_container">false</item>
+    <item type="id" name="category_panel_container">false</item>
+    <item type="id" name="listStates">false</item>
+    <item type="id" name="tinyPlanetEditor">false</item>
+    <item type="id" name="imageTinyPlanet">false</item>
+    <item type="id" name="imageVignette">false</item>
+    <item type="id" name="wordEditor">false</item>
+    <item type="id" name="imageWord">false</item>
+    <item type="id" name="btn_scale_table_ex">false</item>
+    <item type="id" name="btn_scale_table">false</item>
+    <item type="id" name="wheel_adjuster_bar">false</item>
+    <item type="id" name="adjust_curve_bar">false</item>
+    <item type="id" name="rbn_curve_rgb">false</item>
+    <item type="id" name="rbn_curve_red">false</item>
+    <item type="id" name="rbn_curve_green">false</item>
+    <item type="id" name="rbn_curve_blue">false</item>
+    <item type="id" name="view_preview_color">false</item>
+    <item type="id" name="words_edit">false</item>
+    <item type="id" name="words_remainder">false</item>
+    <item type="id" name="text_color_picker">false</item>
+    <item type="id" name="middle_bar">false</item>
+    <item type="id" name="btn_bold">false</item>
+    <item type="id" name="btn_shadow">false</item>
+    <item type="id" name="btn_rotate_left_ex">false</item>
+    <item type="id" name="btn_rotate_left">false</item>
+    <item type="id" name="btn_rotate_right_ex">false</item>
+    <item type="id" name="btn_rotate_right">false</item>
+    <item type="id" name="btn_mirror_horizontal_ex">false</item>
+    <item type="id" name="btn_mirror_horizontal">false</item>
+    <item type="id" name="btn_mirror_vertical_ex">false</item>
+    <item type="id" name="btn_mirror_vertical">false</item>
+    <item type="id" name="seekbar_value">false</item>
+    <item type="id" name="btn_menu">false</item>
+    <item type="id" name="btn_menu_rotate">false</item>
+    <item type="id" name="btn_menu_cut">false</item>
+    <item type="id" name="btn_menu_filters">false</item>
+    <item type="id" name="btn_menu_looks">false</item>
+    <item type="id" name="btn_menu_borders">false</item>
+    <item type="id" name="btn_menu_words">false</item>
+    <item type="id" name="btn_menu_beautiful">false</item>
+    <item type="id" name="wheel_value">false</item>
+    <item type="id" name="menu_share">false</item>
+    <item type="id" name="undoButton">false</item>
+    <item type="id" name="redoButton">false</item>
+    <item type="id" name="resetHistoryButton">false</item>
+    <item type="id" name="showImageStateButton">false</item>
+    <item type="id" name="saveButton">false</item>
+    <item type="id" name="crop_popupmenu">false</item>
+    <item type="id" name="crop_menu_1to1">false</item>
+    <item type="id" name="crop_menu_4to6">false</item>
+    <item type="id" name="crop_menu_3to4">false</item>
+    <item type="id" name="crop_menu_4to3">false</item>
+    <item type="id" name="crop_menu_5to7">false</item>
+    <item type="id" name="crop_menu_7to5">false</item>
+    <item type="id" name="crop_menu_9to16">false</item>
+    <item type="id" name="crop_menu_16to9">false</item>
+    <item type="id" name="crop_menu_none">false</item>
+    <item type="id" name="curves_popupmenu">false</item>
+    <item type="id" name="curve_menu_rgb">false</item>
+    <item type="id" name="curve_menu_red">false</item>
+    <item type="id" name="curve_menu_green">false</item>
+    <item type="id" name="curve_menu_blue">false</item>
+    <item type="id" name="draw_menu_style_line">false</item>
+    <item type="id" name="draw_menu_style_brush_marker">false</item>
+    <item type="id" name="draw_menu_style_brush_spatter">false</item>
+    <item type="id" name="draw_menu_size">false</item>
+    <item type="id" name="draw_menu_color">false</item>
+    <item type="id" name="draw_menu_clear">false</item>
+</resources>

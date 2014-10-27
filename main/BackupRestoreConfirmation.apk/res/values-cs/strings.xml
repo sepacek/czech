@@ -1,0 +1,25 @@
+<resources>
+    <string name="backup_confirm_title">"Úlná záloha"</string>
+    <string name="restore_confirm_title">"Úlné obnovení"</string>
+    <string name="backup_confirm_text">"Bylo požádáno o kompletní zálohu telefonu do počítače.Chcete pokračovat?
+Pokud jste o zálohu nepožádali, tuto operaci nepovolujte."</string>
+    <string name="allow_backup_button_label">"Zálohovat moje data"</string>
+    <string name="deny_backup_button_label">"Nezálohovat"</string>
+    <string name="restore_confirm_text">"Bylo požádáno o kompletní obnovení telefonu z počítače.Chcete pokračovat?
+
+Pokud jste o obnovení ze zálohy nepožádali, tuto operaci zrušte. Tato operace nahradí veškerá data uložená v telefonu."</string>
+    <string name="allow_restore_button_label">"Obnovit moje data"</string>
+    <string name="deny_restore_button_label">"Neobnovovat"</string>
+    <string name="current_password_text">"Prosím, zadejte aktuální heslo zálohy:"</string>
+    <string name="device_encryption_restore_text">"Prosím, zadejte své šifrovací heslo."</string>
+    <string name="device_encryption_backup_text">"Prosím, zadejte své šifrovací heslo.. To bude také použito k zašifrování zálohy."</string>
+    <string name="backup_enc_password_text">"Prosím zadejte heslo k zašifrování zálohy. Pokud je toto pole prázdné, bude použito vaše aktuální heslo:"</string>
+    <string name="backup_enc_password_optional">"Chcete-li zašifrovat zálohu, zadejte heslo:"</string>
+    <string name="restore_enc_password_text">"Pokud je záloha dat zašifrována, zadejte níže heslo:"</string>
+    <string name="toast_backup_started">"Probíhá zálohování..."</string>
+    <string name="toast_backup_ended">"Zálohování bylo dokončeno"</string>
+    <string name="toast_restore_started">"Probíhá obnova..."</string>
+    <string name="toast_restore_ended">"Obnova byla dokončena"</string>
+    <string name="toast_timeout">"Časový limit operace vypršel"</string>
+    <string name="toast_wrong_password">"Chybné heslo"</string>
+</resources>

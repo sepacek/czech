@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="digital_clock_widget">Digital Clock</string>
+    <string name="analog_clock_widget">Analog Clock</string>
+</resources>

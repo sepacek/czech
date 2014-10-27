@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_title">#ffeaeaea</color>
+    <color name="movie_clock">#ffffffff</color>
+    <color name="movie_playtime">#ffeaeaea</color>
+    <color name="movie_white">#ffffffff</color>
+    <color name="movie_black">#00000000</color>
+    <color name="movie_half_transparent">#90000000</color>
+    <color name="white_text_color">#ffffffff</color>
+    <color name="footer_white">#ff9a9da7</color>
+    <color name="gray_white">#80ffffff</color>
+    <color name="gray_black">#80000000</color>
+    <color name="albumset_background">#ff1a1a1a</color>
+    <color name="black">#ff000000</color>
+    <color name="split_line">#ffd9d9d9</color>
+    <color name="tab_selected_color">#ffff4d4d</color>
+    <color name="darker_transparent">#c1000000</color>
+</resources>

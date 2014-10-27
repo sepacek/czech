@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="baceground" format="reference" />
+    <attr name="improve_slideshow_shortcuts" format="reference" />
+    <attr name="improve_actionbar_bg" format="reference" />
+    <attr name="improve_jigsaw" format="reference" />
+    <attr name="improve_gif" format="reference" />
+    <attr name="improve_move" format="reference" />
+    <attr name="improve_private" format="reference" />
+    <attr name="improve_map_actionalbum" format="reference" />
+    <attr name="improve_map_actionmap" format="reference" />
+    <attr name="improve_mark_marked" format="reference" />
+    <attr name="improve_mark_unmark" format="reference" />
+    <attr name="ic_menu_camera_holo_light" format="reference" />
+    <attr name="ic_menu_share_holo_light" format="reference" />
+    <attr name="ic_menu_slideshow_holo_light" format="reference" />
+    <attr name="ic_menu_trash_holo_light" format="reference" />
+    <attr name="improve_btn_rotate_leftrotate" format="reference" />
+    <attr name="improve_btn_rotate_rightrotate" format="reference" />
+    <attr name="improve_btn_rotate_freerotate" format="reference" />
+    <attr name="video_app_icon" format="reference" />
+    <attr name="footer_color" format="color" />
+    <attr name="enabled_color" format="color" />
+    <attr name="disabled_color" format="color" />
+</resources>

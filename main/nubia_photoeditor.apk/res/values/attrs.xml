@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="max_width" format="dimension" />
+    <attr name="elemSize" format="dimension" />
+    <attr name="elemEndSize" format="dimension" />
+    <attr name="iconSize" format="dimension" />
+</resources>
